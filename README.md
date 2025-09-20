@@ -110,7 +110,7 @@ FHE.allow(encryptedData, msg.sender);
 ![Demo Screenshot](Demo Screenshot.png)
 
 **Watch Full Demo:**
-`Demo Video.mp4` - Demonstrates the complete workflow from wallet connection to building submission and certification.
+`PrivacyBuildingCertification.mp4` - Demonstrates the complete workflow from wallet connection to building submission and certification.
 
 ### Demo Highlights
 
