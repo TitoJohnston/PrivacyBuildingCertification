@@ -1,0 +1,19 @@
+{
+  "name": "privacy-building-certification",
+  "version": "1.0.0",
+  "description": "Privacy-preserving building certification system using FHE",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^0.8.0",
+    "dotenv": "^16.6.1"
+  }
+}
